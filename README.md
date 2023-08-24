@@ -36,10 +36,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<p align="center">
-  <img src="https://imgur.com/a/E2z0Bi7.gif" alt="animated" />
-</p>
+<p align="center"> <img src="https://imgur.com/Hj006PS.gif" alt="animated" /> </p>
 
 👉🏿 👉🏿 **[GIF WALKTHROUGH RECORDING](https://imgur.com/Hj006PS.gif)**
 
