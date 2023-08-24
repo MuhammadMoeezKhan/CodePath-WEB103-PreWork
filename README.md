@@ -41,7 +41,7 @@ Here's a walkthrough of implemented required features:
   <img src="https://imgur.com/a/E2z0Bi7.gif" alt="animated" />
 </p>
 
-👉🏿 👉🏿 **[GIF WALKTHROUGH RECORDING](https://imgur.com/a/E2z0Bi7.gif)**
+👉🏿 👉🏿 **[GIF WALKTHROUGH RECORDING](https://imgur.com/Hj006PS.gif)**
 
 GIF created with ...  👉🏿 Apple QuickTime Screen Recorder
 <!-- Recommended tools:
