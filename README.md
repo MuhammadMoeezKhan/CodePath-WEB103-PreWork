@@ -37,7 +37,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://streamable.com/e/fqpr80?autoplay=1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://streamable.com/e/k7swr6?autoplay=1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+[Recording](https://streamable.com/e/k7swr6?autoplay=1)
 
 GIF created with ...  👉🏿 Apple QuickTime Screen Recorder
 <!-- Recommended tools:
