@@ -37,7 +37,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿 👉🏿 **[GIF WALKTHROUGH RECORDING](https://streamable.com/e/36t512?autoplay=1)**
+<p align="center">
+  <img src="https://imgur.com/a/E2z0Bi7.gif" alt="animated" />
+</p>
+
+👉🏿 👉🏿 **[GIF WALKTHROUGH RECORDING](https://imgur.com/a/E2z0Bi7.gif)**
 
 GIF created with ...  👉🏿 Apple QuickTime Screen Recorder
 <!-- Recommended tools:
