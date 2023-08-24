@@ -1,0 +1,56 @@
+.creator-card {
+  width: 400px;
+  height: 280px; /* Adjust the desired height */
+  position: relative;
+}
+
+.card-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7); /* Adjust overlay color and transparency */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.card-icons {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.icon-link {
+  color: white;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.icon {
+  font-size: 20px;
+}
+
+.creator-details {
+  color: white;
+  text-align: left;
+}
+
+.creator-details h2 {
+  color: white;
+  margin: 0;
+  font-size: 24px; /* Adjust font size as needed */
+}
+
+.creator-details .website a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px; /* Adjust font size as needed */
+}
+
+.creator-details .description {
+  color: white;
+  margin-top:10px;
+  font-size: 13px; /* Adjust font size as needed */
+}
